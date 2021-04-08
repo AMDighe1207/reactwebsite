@@ -1,0 +1,61 @@
+.main_container {
+  background:#f0f3f4;
+}
+
+.header {
+  background: #fb8027;
+  width: 918px;
+  height: 3rem;
+}
+
+.section {
+  background: #f3f5f6;
+  width: 51rem;
+  height: 18rem;
+  margin: 38px;
+  border: 1px solid #e4eaeb;
+  border-radius: 4px;
+}
+
+.angle {
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+.logo {
+  padding-top: 0.5rem;
+}
+
+.text {
+  padding-top: 0.5rem;
+}
+
+.text > h6 {
+  color: #80898e;
+  font-size: 14px;
+}
+
+.text2 {
+  padding-left: 28rem;
+}
+
+.middle {
+  background: #edf1f2;
+  border: 1px solid #e4eaeb;
+  border-radius: 4px;
+  margin: 30px;
+  height: 3rem;
+  width: 52rem;
+}
+
+.table-section {
+  /* background: burlywood; */
+  border: 1px solid #e4eaeb;
+  margin: 2rem;
+  width: 51.9rem;
+  height: 28rem;
+}
+
+.angle3 {
+  margin: 32px;
+}
